@@ -13,7 +13,6 @@
 - [About the Project](#star2-about-the-project)
 
 
-## :star2: About the Project
 
 ## :toolbox: Getting Started
 
